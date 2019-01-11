@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GAMES</string>
+    <string name="cow">COW</string>
+    <string name="horse">Horse</string>
+    <string name="pig">Pig</string>
+    <string name="cheep">cheep</string>
+    <string name="answer">Answer</string>
+    <string name="title_activity_show_answer">ShowAnswer</string>
+    <string name="score">Your Score</string>
+    <string name="play">Play Again</string>
+    <string name="exit">Exit</string>
+</resources>
